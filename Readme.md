@@ -11,6 +11,7 @@ run independently with [Node.js](https://nodejs.org/).
 | [`01_JS_Basics/Math.js`](01_JS_Basics/Math.js) | Addition, subtraction, multiplication, division, remainder, and exponentiation |
 | [`02_JS_Keywords_Identifier/`](02_JS_Keywords_Identifier/) | JavaScript keywords, `var`/`let`/`const`, identifier rules, naming conventions, and comments |
 | [`03_JS_Literals/`](03_JS_Literals/) | String, boolean, null, undefined, and numeric literals, including number bases, BigInt, and special numeric values |
+| [`04_JS_Operators/`](04_JS_Operators/) | Arithmetic, assignment, comparison, logical, and string operator examples; `28_Terenary_op.js` is currently empty |
 
 The identifier exercises include examples of valid and invalid names. Invalid
 examples are commented out so the scripts remain runnable.
@@ -28,6 +29,13 @@ node 03_JS_Literals/15_Numbers.js
 node 03_JS_Literals/16_Numbers_Part2.js
 node 03_JS_Literals/17_Special.js
 node 03_JS_Literals/18_Undefined.js
+node 04_JS_Operators/19_Arch.js
+node 04_JS_Operators/20_Assignment_Op.js
+node 04_JS_Operators/21_Arthimatic_op.js
+node 04_JS_Operators/22_Comparision_op.js
+node 04_JS_Operators/23_Logical_Op.Js
+node 04_JS_Operators/24_Confusing_Comparision.js
+node 04_JS_Operators/27_Strings.js
 ```
 
 Run another `.js` file in a lesson folder by replacing the path with that
