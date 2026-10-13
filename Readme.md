@@ -11,7 +11,7 @@ run independently with [Node.js](https://nodejs.org/).
 | [`01_JS_Basics/Math.js`](01_JS_Basics/Math.js) | Addition, subtraction, multiplication, division, remainder, and exponentiation |
 | [`02_JS_Keywords_Identifier/`](02_JS_Keywords_Identifier/) | JavaScript keywords, `var`/`let`/`const`, identifier rules, naming conventions, and comments |
 | [`03_JS_Literals/`](03_JS_Literals/) | String, boolean, null, undefined, and numeric literals, including number bases, BigInt, and special numeric values |
-| [`04_JS_Operators/`](04_JS_Operators/) | Arithmetic, assignment, comparison, logical, and string operator examples; `28_Terenary_op.js` is currently empty |
+| [`04_JS_Operators/`](04_JS_Operators/) | Arithmetic, assignment, comparison, logical, string, and ternary operators, plus `typeof` |
 
 The identifier exercises include examples of valid and invalid names. Invalid
 examples are commented out so the scripts remain runnable.
@@ -36,6 +36,13 @@ node 04_JS_Operators/22_Comparision_op.js
 node 04_JS_Operators/23_Logical_Op.Js
 node 04_JS_Operators/24_Confusing_Comparision.js
 node 04_JS_Operators/27_Strings.js
+node 04_JS_Operators/28_Terenary_op.js
+node 04_JS_Operators/29_T_ops.js
+node 04_JS_Operators/30_31_IQ.js
+node 04_JS_Operators/32_33_IQ.js
+node 04_JS_Operators/34_Nested_Terenary.js
+node 04_JS_Operators/35_36_IQ.js
+node 04_JS_Operators/37_Typeof.js
 ```
 
 Run another `.js` file in a lesson folder by replacing the path with that
