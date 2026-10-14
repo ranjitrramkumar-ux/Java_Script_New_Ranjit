@@ -12,6 +12,7 @@ run independently with [Node.js](https://nodejs.org/).
 | [`02_JS_Keywords_Identifier/`](02_JS_Keywords_Identifier/) | JavaScript keywords, `var`/`let`/`const`, identifier rules, naming conventions, and comments |
 | [`03_JS_Literals/`](03_JS_Literals/) | String, boolean, null, undefined, and numeric literals, including number bases, BigInt, and special numeric values |
 | [`04_JS_Operators/`](04_JS_Operators/) | Arithmetic, assignment, comparison, logical, string, and ternary operators, plus `typeof` |
+| [`05_JS_Increment_Decrement/`](05_JS_Increment_Decrement/) | Prefix and postfix increment/decrement, expression evaluation, and nullish coalescing |
 
 The identifier exercises include examples of valid and invalid names. Invalid
 examples are commented out so the scripts remain runnable.
@@ -43,6 +44,13 @@ node 04_JS_Operators/32_33_IQ.js
 node 04_JS_Operators/34_Nested_Terenary.js
 node 04_JS_Operators/35_36_IQ.js
 node 04_JS_Operators/37_Typeof.js
+node 05_JS_Increment_Decrement/38_ID_Ops.js
+node 05_JS_Increment_Decrement/39_ID.js
+node 05_JS_Increment_Decrement/40_IQ.js
+node 05_JS_Increment_Decrement/41_42_IQ.js
+node 05_JS_Increment_Decrement/43_44_Decrement.js
+node 05_JS_Increment_Decrement/45_Nullish.js
+node 05_JS_Increment_Decrement/Practise.js
 ```
 
 Run another `.js` file in a lesson folder by replacing the path with that
