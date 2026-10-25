@@ -14,6 +14,7 @@ run independently with [Node.js](https://nodejs.org/).
 | [`04_JS_Operators/`](04_JS_Operators/) | Arithmetic, assignment, comparison, logical, string, and ternary operators, plus `typeof` |
 | [`05_JS_Increment_Decrement/`](05_JS_Increment_Decrement/) | Prefix and postfix increment/decrement, expression evaluation, and nullish coalescing |
 | [`06_JS_If_Else_Statement_Condition/`](06_JS_If_Else_Statement_Condition/) | `if`/`else` conditions, nested conditionals, and a score-based grade calculator |
+| [`07_JS_Switch/`](07_JS_Switch/) | `switch` statements, case selection, and fall-through behavior |
 
 The identifier exercises include examples of valid and invalid names. Invalid
 examples are commented out so the scripts remain runnable.
@@ -56,6 +57,8 @@ node 06_JS_If_Else_Statement_Condition/46_IF.js
 node 06_JS_If_Else_Statement_Condition/47_IF_Else_Nested.js
 node 06_JS_If_Else_Statement_Condition/48_To_If_Else.js
 node 06_JS_If_Else_Statement_Condition/49_Multiple_If_Yes.js
+node 07_JS_Switch/50_Switch.js
+node 07_JS_Switch/51_IQ.js
 ```
 
 Run another `.js` file in a lesson folder by replacing the path with that
