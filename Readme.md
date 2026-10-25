@@ -80,3 +80,5 @@ can be run in a browser console. `60_Node_UI.js` reads from the terminal, while
 `61.js` uses the external `prompt-sync` package. Run another `.js` file in a
 lesson folder by replacing the path with that script's path. The math example
 prints the result of each arithmetic expression to the terminal.
+`09_Chapter_Loops/67_IQ.js` currently contains commented-out loop exercises
+and produces no output when run.
