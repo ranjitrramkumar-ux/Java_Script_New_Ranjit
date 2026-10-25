@@ -15,6 +15,8 @@ run independently with [Node.js](https://nodejs.org/).
 | [`05_JS_Increment_Decrement/`](05_JS_Increment_Decrement/) | Prefix and postfix increment/decrement, expression evaluation, and nullish coalescing |
 | [`06_JS_If_Else_Statement_Condition/`](06_JS_If_Else_Statement_Condition/) | `if`/`else` conditions, nested conditionals, and a score-based grade calculator |
 | [`07_JS_Switch/`](07_JS_Switch/) | `switch` statements, strict case matching, grouped cases, fall-through, and practical examples |
+| [`08_JS_Chapter_User_Input/`](08_JS_Chapter_User_Input/) | Reading user input in a browser or Node.js |
+| [`09_Chapter_Loops/`](09_Chapter_Loops/) | `for` loops, loop counters, and iteration exercises |
 
 The identifier exercises include examples of valid and invalid names. Invalid
 examples are commented out so the scripts remain runnable.
@@ -66,8 +68,15 @@ node 07_JS_Switch/55_IQ.js
 node 07_JS_Switch/56_IQ.js
 node 07_JS_Switch/57_IQ.js
 node 07_JS_Switch/58_IQ.js
+node 08_JS_Chapter_User_Input/60_Node_UI.js
+node 09_Chapter_Loops/63_Loop.js
+node 09_Chapter_Loops/64_For_Loop.js
+node 09_Chapter_Loops/65_For_Loop.js
+node 09_Chapter_Loops/67_IQ.js
 ```
 
-Run another `.js` file in a lesson folder by replacing the path with that
-script's path. The math example prints the result of each arithmetic
-expression to the terminal.
+`08_JS_Chapter_User_Input/59_UI.js` uses the browser's `prompt()` function and
+can be run in a browser console. `60_Node_UI.js` reads from the terminal, while
+`61.js` uses the external `prompt-sync` package. Run another `.js` file in a
+lesson folder by replacing the path with that script's path. The math example
+prints the result of each arithmetic expression to the terminal.
