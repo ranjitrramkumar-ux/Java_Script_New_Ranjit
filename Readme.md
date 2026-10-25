@@ -17,6 +17,7 @@ run independently with [Node.js](https://nodejs.org/).
 | [`07_JS_Switch/`](07_JS_Switch/) | `switch` statements, strict case matching, grouped cases, fall-through, and practical examples |
 | [`08_JS_Chapter_User_Input/`](08_JS_Chapter_User_Input/) | Reading user input in a browser or Node.js |
 | [`09_Chapter_Loops/`](09_Chapter_Loops/) | `for` loops, loop counters, and iteration exercises |
+| [`10_JS_Chapter_Loops_While/`](10_JS_Chapter_Loops_While/) | `while` loops, loop counters, and stopping a loop with `break` |
 
 The identifier exercises include examples of valid and invalid names. Invalid
 examples are commented out so the scripts remain runnable.
@@ -72,7 +73,12 @@ node 08_JS_Chapter_User_Input/60_Node_UI.js
 node 09_Chapter_Loops/63_Loop.js
 node 09_Chapter_Loops/64_For_Loop.js
 node 09_Chapter_Loops/65_For_Loop.js
-node 09_Chapter_Loops/67_IQ.js
+node 09_Chapter_Loops/66_67_IQ.js
+node 09_Chapter_Loops/69_For_Loop.js
+node 10_JS_Chapter_Loops_While/70.js
+node 10_JS_Chapter_Loops_While/71_IQ.js
+node 10_JS_Chapter_Loops_While/72.js
+node 10_JS_Chapter_Loops_While/73_Break_IQ.js
 ```
 
 `08_JS_Chapter_User_Input/59_UI.js` uses the browser's `prompt()` function and
@@ -80,5 +86,5 @@ can be run in a browser console. `60_Node_UI.js` reads from the terminal, while
 `61.js` uses the external `prompt-sync` package. Run another `.js` file in a
 lesson folder by replacing the path with that script's path. The math example
 prints the result of each arithmetic expression to the terminal.
-`09_Chapter_Loops/67_IQ.js` currently contains commented-out loop exercises
-and produces no output when run.
+`09_Chapter_Loops/66_67_IQ.js` contains commented-out exercises and produces
+no output when run.
