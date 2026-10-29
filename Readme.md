@@ -18,6 +18,8 @@ run independently with [Node.js](https://nodejs.org/).
 | [`08_JS_Chapter_User_Input/`](08_JS_Chapter_User_Input/) | Reading user input in a browser or Node.js |
 | [`09_Chapter_Loops/`](09_Chapter_Loops/) | `for` loops, loop counters, and iteration exercises |
 | [`10_JS_Chapter_Loops_While/`](10_JS_Chapter_Loops_While/) | `while` loops, loop counters, and stopping a loop with `break` |
+| [`11_JS_Chapter_Loops_Dowhile/`](11_JS_Chapter_Loops_Dowhile/) | `do...while` loops and nested-loop exercises |
+| [`12_JS_Chapter_Array/`](12_JS_Chapter_Array/) | Creating, accessing, modifying, searching, and updating arrays |
 
 The identifier exercises include examples of valid and invalid names. Invalid
 examples are commented out so the scripts remain runnable.
@@ -79,6 +81,20 @@ node 10_JS_Chapter_Loops_While/70.js
 node 10_JS_Chapter_Loops_While/71_IQ.js
 node 10_JS_Chapter_Loops_While/72.js
 node 10_JS_Chapter_Loops_While/73_Break_IQ.js
+node 11_JS_Chapter_Loops_Dowhile/74.js
+node 11_JS_Chapter_Loops_Dowhile/75_IQ.js
+node 11_JS_Chapter_Loops_Dowhile/76_Nested.js
+node 11_JS_Chapter_Loops_Dowhile/77_IQ.js
+node 12_JS_Chapter_Array/78_Array.js
+node 12_JS_Chapter_Array/79_Array.js
+node 12_JS_Chapter_Array/80_Array.js
+node 12_JS_Chapter_Array/81_Array.js
+node 12_JS_Chapter_Array/82_Create.js
+node 12_JS_Chapter_Array/83_Access_Modify.js
+node 12_JS_Chapter_Array/84_Adding_Removing.js
+node 12_JS_Chapter_Array/85_Array.js
+node 12_JS_Chapter_Array/86_Searching.js
+node 12_JS_Chapter_Array/87_Find.js
 ```
 
 `08_JS_Chapter_User_Input/59_UI.js` uses the browser's `prompt()` function and
