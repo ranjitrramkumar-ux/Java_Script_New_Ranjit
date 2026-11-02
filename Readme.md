@@ -19,7 +19,7 @@ run independently with [Node.js](https://nodejs.org/).
 | [`09_Chapter_Loops/`](09_Chapter_Loops/) | `for` loops, loop counters, and iteration exercises |
 | [`10_JS_Chapter_Loops_While/`](10_JS_Chapter_Loops_While/) | `while` loops, loop counters, and stopping a loop with `break` |
 | [`11_JS_Chapter_Loops_Dowhile/`](11_JS_Chapter_Loops_Dowhile/) | `do...while` loops and nested-loop exercises |
-| [`12_JS_Chapter_Array/`](12_JS_Chapter_Array/) | Creating, accessing, modifying, searching, and updating arrays |
+| [`12_JS_Chapter_Array/`](12_JS_Chapter_Array/) | Creating, iterating, transforming, sorting, slicing, copying, and searching arrays |
 
 The identifier exercises include examples of valid and invalid names. Invalid
 examples are commented out so the scripts remain runnable.
@@ -95,6 +95,18 @@ node 12_JS_Chapter_Array/84_Adding_Removing.js
 node 12_JS_Chapter_Array/85_Array.js
 node 12_JS_Chapter_Array/86_Searching.js
 node 12_JS_Chapter_Array/87_Find.js
+node 12_JS_Chapter_Array/88_Iterate.js
+node 12_JS_Chapter_Array/89_Array_Transform.js
+node 12_JS_Chapter_Array/90_Array_Sorting.js
+node 12_JS_Chapter_Array/91_Array_Sorting.js
+node 12_JS_Chapter_Array/92_Array_Normal_Sorting.js
+node 12_JS_Chapter_Array/93_Array_Slicing.js
+node 12_JS_Chapter_Array/94_Array.concat.js
+node 12_JS_Chapter_Array/95_Array.check.js
+node 12_JS_Chapter_Array/96_Array_Transform.js
+node 12_JS_Chapter_Array/97_Array_Copy.js
+node 12_JS_Chapter_Array/98_Array_Destructring.js
+node 12_JS_Chapter_Array/99_IQ.js
 ```
 
 `08_JS_Chapter_User_Input/59_UI.js` uses the browser's `prompt()` function and
@@ -104,3 +116,5 @@ lesson folder by replacing the path with that script's path. The math example
 prints the result of each arithmetic expression to the terminal.
 `09_Chapter_Loops/66_67_IQ.js` contains commented-out exercises and produces
 no output when run.
+The array folder also includes explanations of [lexicographic sorting](12_JS_Chapter_Array/91_lexicographic.md)
+and [array slicing](12_JS_Chapter_Array/93_Array_Slicing.md).
