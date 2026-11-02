@@ -117,4 +117,6 @@ prints the result of each arithmetic expression to the terminal.
 `09_Chapter_Loops/66_67_IQ.js` contains commented-out exercises and produces
 no output when run.
 The array folder also includes explanations of [lexicographic sorting](12_JS_Chapter_Array/91_lexicographic.md)
-and [array slicing](12_JS_Chapter_Array/93_Array_Slicing.md).
+and [array slicing](12_JS_Chapter_Array/93_Array_Slicing.md). The slicing
+example demonstrates that `slice()` returns a new array without modifying the
+original, and supports negative indexes counted from the end.
