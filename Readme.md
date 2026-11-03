@@ -19,7 +19,8 @@ run independently with [Node.js](https://nodejs.org/).
 | [`09_Chapter_Loops/`](09_Chapter_Loops/) | `for` loops, loop counters, and iteration exercises |
 | [`10_JS_Chapter_Loops_While/`](10_JS_Chapter_Loops_While/) | `while` loops, loop counters, and stopping a loop with `break` |
 | [`11_JS_Chapter_Loops_Dowhile/`](11_JS_Chapter_Loops_Dowhile/) | `do...while` loops and nested-loop exercises |
-| [`12_JS_Chapter_Array/`](12_JS_Chapter_Array/) | Creating, iterating, transforming, sorting, slicing, copying, and searching arrays |
+| [`12_JS_Chapter_Array/`](12_JS_Chapter_Array/) | Creating, iterating, transforming, sorting, slicing, copying, searching, and swapping array values |
+| [`13_Chapter_Functions/`](13_Chapter_Functions/) | Function declarations, parameters, return values, expressions, arrow functions, IIFEs, and spread syntax |
 
 The identifier exercises include examples of valid and invalid names. Invalid
 examples are commented out so the scripts remain runnable.
@@ -107,6 +108,23 @@ node 12_JS_Chapter_Array/96_Array_Transform.js
 node 12_JS_Chapter_Array/97_Array_Copy.js
 node 12_JS_Chapter_Array/98_Array_Destructring.js
 node 12_JS_Chapter_Array/99_IQ.js
+node 12_JS_Chapter_Array/100_Swap.js
+node 13_Chapter_Functions/101_Fn.js
+node 13_Chapter_Functions/102_Type1_Fn.js
+node 13_Chapter_Functions/103_Type2_Fn.js
+node 13_Chapter_Functions/104_Type3_Fn.js
+node 13_Chapter_Functions/105_Type4_Fn.js
+node 13_Chapter_Functions/106_Template_Literal.js
+node 13_Chapter_Functions/107_Fn_Exp.js
+node 13_Chapter_Functions/108_Fn_Arrow.js
+node 13_Chapter_Functions/109_Arrow.js
+node 13_Chapter_Functions/110_Arrow_Multiple.js
+node 13_Chapter_Functions/111_Fn.js
+node 13_Chapter_Functions/112_Fn_Real.js
+node 13_Chapter_Functions/113_Fn_IIFE.js
+node 13_Chapter_Functions/114_Spread.js
+node 13_Chapter_Functions/115_fn_Return.js
+node "13_Chapter_Functions/116_,Return_Fn.js"
 ```
 
 `08_JS_Chapter_User_Input/59_UI.js` uses the browser's `prompt()` function and
