@@ -21,6 +21,7 @@ run independently with [Node.js](https://nodejs.org/).
 | [`11_JS_Chapter_Loops_Dowhile/`](11_JS_Chapter_Loops_Dowhile/) | `do...while` loops and nested-loop exercises |
 | [`12_JS_Chapter_Array/`](12_JS_Chapter_Array/) | Creating, iterating, transforming, sorting, slicing, copying, searching, and swapping array values |
 | [`13_Chapter_Functions/`](13_Chapter_Functions/) | Function declarations, parameters, return values, expressions, arrow functions, IIFEs, and spread syntax |
+| [`MY_Learning/`](MY_Learning/) | Additional notes and examples on callbacks and Promises |
 
 The identifier exercises include examples of valid and invalid names. Invalid
 examples are commented out so the scripts remain runnable.
@@ -125,6 +126,8 @@ node 13_Chapter_Functions/113_Fn_IIFE.js
 node 13_Chapter_Functions/114_Spread.js
 node 13_Chapter_Functions/115_fn_Return.js
 node "13_Chapter_Functions/116_,Return_Fn.js"
+node MY_Learning/Test_Callback.js
+node MY_Learning/Test_Promise.js
 ```
 
 `08_JS_Chapter_User_Input/59_UI.js` uses the browser's `prompt()` function and
@@ -138,3 +141,4 @@ The array folder also includes explanations of [lexicographic sorting](12_JS_Cha
 and [array slicing](12_JS_Chapter_Array/93_Array_Slicing.md). The slicing
 example demonstrates that `slice()` returns a new array without modifying the
 original, and supports negative indexes counted from the end.
+For more details, see [Promise and callback notes](MY_Learning/Promise_and_Callback.md).
