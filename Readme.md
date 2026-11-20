@@ -22,6 +22,8 @@ run independently with [Node.js](https://nodejs.org/).
 | [`12_JS_Chapter_Array/`](12_JS_Chapter_Array/) | Creating, iterating, transforming, sorting, slicing, copying, searching, and swapping array values |
 | [`13_Chapter_Functions/`](13_Chapter_Functions/) | Function declarations, parameters, return values, expressions, arrow functions, IIFEs, and spread syntax |
 | [`MY_Learning/`](MY_Learning/) | Additional notes and examples on callbacks and Promises |
+| [`14_Chapter_Var_Let_Const_Hosting_TDZ/`](14_Chapter_Var_Let_Const_Hosting_TDZ/) | `var`, `let`, `const`, hoisting, function hoisting, and the temporal dead zone |
+| Playwright setup | Browser automation tests and CI configuration |
 
 The identifier exercises include examples of valid and invalid names. Invalid
 examples are commented out so the scripts remain runnable.
@@ -128,6 +130,16 @@ node 13_Chapter_Functions/115_fn_Return.js
 node "13_Chapter_Functions/116_,Return_Fn.js"
 node MY_Learning/Test_Callback.js
 node MY_Learning/Test_Promise.js
+node 14_Chapter_Var_Let_Const_Hosting_TDZ/117.js
+node 14_Chapter_Var_Let_Const_Hosting_TDZ/118_Var_Let_Const.js
+node 14_Chapter_Var_Let_Const_Hosting_TDZ/119_Let.js
+node 14_Chapter_Var_Let_Const_Hosting_TDZ/120_Const.js
+node 14_Chapter_Var_Let_Const_Hosting_TDZ/121_Var_Hosting.js
+node 14_Chapter_Var_Let_Const_Hosting_TDZ/122_Let_Hoisting.js
+node 14_Chapter_Var_Let_Const_Hosting_TDZ/123_Fn_Hosting.js
+node 14_Chapter_Var_Let_Const_Hosting_TDZ/124_Var_TDX.js
+node 14_Chapter_Var_Let_Const_Hosting_TDZ/126.var.js
+node 14_Chapter_Var_Let_Const_Hosting_TDZ/127_TDS_Typeof.js
 ```
 
 `08_JS_Chapter_User_Input/59_UI.js` uses the browser's `prompt()` function and
