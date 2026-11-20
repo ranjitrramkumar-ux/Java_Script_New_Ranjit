@@ -154,3 +154,5 @@ and [array slicing](12_JS_Chapter_Array/93_Array_Slicing.md). The slicing
 example demonstrates that `slice()` returns a new array without modifying the
 original, and supports negative indexes counted from the end.
 For more details, see [Promise and callback notes](MY_Learning/Promise_and_Callback.md).
+The `126.var.js` example demonstrates that `var` permits repeated declarations
+in the same scope, while the final assigned value is logged.
